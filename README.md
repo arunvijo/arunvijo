@@ -1,6 +1,19 @@
-<h3 align="left">Hi there! 👋 I'm Arun Vijo — a passionate AI engineer, open-source contributor, and lifelong learner who believes in building to learn.<br><br>🔭 Currently exploring the intersection of machine learning, human-centered AI, and socially relevant tech  <br>🌱 Always experimenting with projects that make a real-world impact — from smart assistants to medical AI  <br>💬 Love collaborating, contributing, and simplifying complex problems  <br>📚 My mantra: "Stay curious, keep building."  <br>🛠️ Let’s connect and create something meaningful!</h3>
+<h1 align="center">Hi, I'm Arun Vijo</h1>
 
 ###
+
+<h3 align="center">
+  I’m a passionate AI engineer and open-source contributor who thrives at the intersection of machine learning, human-centered design, and socially impactful innovation.
+  <br><br>
+  My journey began with curiosity — the kind that led me to build small bots, automate everyday tasks, and later, architect smarter systems that assist people in meaningful ways. Over time, I realized that great technology isn't just functional; it's empathetic, accessible, and purposeful.
+  <br><br>
+  Today, I’m building AI tools that solve real-world problems — from simplifying medical workflows to designing intelligent assistants for everyday users. I enjoy translating complex challenges into elegant, human-centric solutions.
+  <br><br>
+  Whether it’s collaborating on open-source projects, contributing to ethical AI, or learning new frameworks on the fly, I bring a mindset of curiosity, clarity, and craftsmanship to everything I do.
+  <br><br>
+  Let’s connect — and build something that truly matters.
+</h3>
+
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=arunvijo.arunvijo&left_text=Profile%20Views"  />
@@ -109,7 +122,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=arunvijo&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <!-- <img src="https://github-profile-trophy.vercel.app?username=arunvijo&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arunvijo&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
