@@ -1,7 +1,3 @@
-<h1 align="center">Hi 👋, I'm Arun Vijo</h1>
-
-###
-
 <h3 align="left">Hi there! 👋 I'm Arun Vijo — a passionate AI engineer, open-source contributor, and lifelong learner who believes in building to learn.<br><br>🔭 Currently exploring the intersection of machine learning, human-centered AI, and socially relevant tech  <br>🌱 Always experimenting with projects that make a real-world impact — from smart assistants to medical AI  <br>💬 Love collaborating, contributing, and simplifying complex problems  <br>📚 My mantra: "Stay curious, keep building."  <br>🛠️ Let’s connect and create something meaningful!</h3>
 
 ###
