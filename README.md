@@ -3,16 +3,15 @@
 ###
 
 <h3 align="left">
-  I’m a passionate AI engineer and open-source contributor who thrives at the intersection of machine learning, human-centered design, and socially impactful innovation.
+  I’m an AI engineer and open-source contributor passionate about building human-centered, impactful technology.  
   <br><br>
-  My journey began with curiosity — the kind that led me to build small bots, automate everyday tasks, and later, architect smarter systems that assist people in meaningful ways. Over time, I realized that great technology isn't just functional; it's empathetic, accessible, and purposeful.
+  My journey began with curiosity — from building bots to automating tasks — and evolved into designing AI systems that simplify lives and solve real-world problems.  
   <br><br>
-  Today, I’m building AI tools that solve real-world problems — from simplifying medical workflows to designing intelligent assistants for everyday users. I enjoy translating complex challenges into elegant, human-centric solutions.
+  I enjoy turning complex challenges into elegant solutions, whether through open-source collaboration or applied machine learning.  
   <br><br>
-  Whether it’s collaborating on open-source projects, contributing to ethical AI, or learning new frameworks on the fly, I bring a mindset of curiosity, clarity, and craftsmanship to everything I do.
-  <br><br>
-  Let’s connect — and build something that truly matters.
+  Always learning, always building — let's create something meaningful together.
 </h3>
+
 
 
 <div align="left">
