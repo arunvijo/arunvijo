@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Arun Vijo</h1>
+<h1 align="center">Hi 👋, I'm Arun Vijo</h1>
 
 ###
 
-<h3 align="center">
+<h3 align="left">
   I’m a passionate AI engineer and open-source contributor who thrives at the intersection of machine learning, human-centered design, and socially impactful innovation.
   <br><br>
   My journey began with curiosity — the kind that led me to build small bots, automate everyday tasks, and later, architect smarter systems that assist people in meaningful ways. Over time, I realized that great technology isn't just functional; it's empathetic, accessible, and purposeful.
